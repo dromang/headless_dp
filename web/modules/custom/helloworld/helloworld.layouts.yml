@@ -1,0 +1,23 @@
+basic_page_general:
+  label: 'Basic0 Page'
+  path: layouts/basic_page
+  template: layout--basic-page-general
+  category: 'Basic Page'
+  default_region: content
+  icon_map:
+    - [horizontal_advertising]
+    - [one_content_title]
+    - [two_content]
+    - [one_vertical_advertising]
+    - [two_vertical_advertising]
+  regions:
+    horizontal_advertising:
+      label: Publicidad Horizontal
+    one_content_title:
+      label: Primero - contenido
+    two_content:
+      label: Segundo - contenido
+    one_vertical_advertising:
+      label: Publicidad Vertical uno
+    two_vertical_advertising:
+      label: Publicidad Vertical dos
