@@ -1,0 +1,4 @@
+
+.nav-link{
+    @apply pointer-events-auto active:font-bold active:text-gray-900;
+}
