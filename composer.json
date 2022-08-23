@@ -22,6 +22,7 @@
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
         "drupal/face_recognition_aws": "^1.0",
+        "drupal/restui": "^1.21",
         "drush/drush": "^11.0"
     },
     "conflict": {
